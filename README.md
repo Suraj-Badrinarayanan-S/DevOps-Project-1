@@ -1,7 +1,9 @@
 Project description: 
+
 This project stablishes a Continuous Integration and Continuous Deployment (CI/CD) pipeline using Jenkins, Git, Maven, and Docker.
 
 Outcome of this project:
+
 This project aims to automate the deployment of an application.
 The final application is hosted in a docker container and can be accessed by the users through their browsers.
 
