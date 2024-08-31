@@ -14,7 +14,7 @@ node{
    sh 'docker build -t sarathy27rjpm/myweb:0.0.2 .'
    }
 
- stage('Docker Image Push'){
+   stage('Docker Image Push'){
    withCredentials([string(credentialsId: 'dockerPass', variable: 'dockerPassword')]) {
    sh "docker login -u sarathy27rjpm -p ${dockerPassword}"
     }
