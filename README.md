@@ -42,3 +42,6 @@ PROJECT ARCHITECTURE:
 
 <img width="874" alt="Screenshot 2024-08-31 at 8 35 12 PM" src="https://github.com/user-attachments/assets/db3728f4-3992-4611-97ce-9c3b3754f729">
 
+   <img width="874" alt="image" src="https://github.com/user-attachments/assets/0352b8c0-da9d-47b5-9e25-857dfddaca8a">
+
+
